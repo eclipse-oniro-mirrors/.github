@@ -1,10 +1,7 @@
 # Welcome to the Eclipse Oniro Mirrors
 
-This project mirrors all repositories from the [OpenHarmony
-organization](https://gitee.com/openharmony) at gitee (https://gitee.com/).
+This space mirrors all repositories from [the OpenHarmony organization at gitee](https://gitee.com/openharmony/docs). These mirrored repositories are **read-only** and consumed by Eclipse Oniro build system.
 
-These mirrors are read-only and consumed by [Eclipse Oniro](https://oniroproject.org/). For ongoing development please check our Eclipse Oniro for OpenHarmony [project](https://github.com/eclipse-oniro4openharmony).
+The objective of this mirroring is to enhance the speed and reliability of accessing these repositories. It also streamlines the process of forking and integration with GitHub. To ensure these mirrors are consistently up-to-date, a synchronization CI workflow is executed every 24 hours to incorporate the latest changes.
 
-The purpose of mirroring these repositories is to improve repository access
-speed and reliability, as well as, allowing easier forking and consumption on
-GitHub. A mirror sync CI workflow is run every 24h to receive the latest changes.
+For those involved in active development and wishing to contribute, please visit [the Eclipse Oniro for OpenHarmony](https://github.com/eclipse-oniro4openharmony) space.
